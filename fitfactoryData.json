@@ -1,0 +1,790 @@
+[
+    {
+        "classes":[
+            {
+                "id": 101,
+                "title": "Yoga & Stretching Session",
+                "description": "If you’re looking to increase flexibility, relieve stress, and improve your mental health, yoga classes offer these benefits and so much more. World Gym® offers our members everything they need to be their best, and yoga is an integral part of many of their fitness journeys. One of our most popular group workout classes, yoga can also increase strength, reduce anxiety, and improve your overall quality of life. Contact your local World Gym to learn more about their yoga class schedule. If you’re not sure if yoga is the right group workout class for you, don’t hesitate to chat with one of our team members. They will learn a bit about you and your goals and then direct you toward the best classes to help you become the best version of yourself.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/young-handsome-man-doing-cardio-training-in-gym-REPHQ2B-1-pf2kgo57lkuqqk39xxn9t8spuq70j3ob5amnebhpyw.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "06:00 AM - 08:00 AM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Asanas (Poses)",
+                        "description": "Yoga includes various physical postures or asanas designed to promote strength, flexibility, and balance. These poses can range from gentle stretches to more challenging positions, catering to practitioners of all levels."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Pranayama (Breath Control)",
+                        "description": "Pranayama techniques involve controlling the breath to enhance vitality and mental clarity. Breathing exercises are often integrated into yoga sessions to deepen relaxation and focus."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Meditation and Mindfulness",
+                        "description": "Yoga encourages the cultivation of mindfulness and inner awareness through meditation practices. This can involve techniques such as breath awareness, guided visualization, or mantra repetition to quiet the mind and promote a sense of calm."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Alignment and Awareness",
+                        "description": "Proper alignment is emphasized in yoga to prevent injury and ensure maximum benefit from each pose. Practitioners are encouraged to cultivate body awareness, noticing sensations and alignment cues to refine their practice over time."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Sequencing and Flow",
+                        "description": "Yoga classes are often structured in sequences or flows that guide practitioners through a series of poses in a coordinated manner. These sequences may be designed to target specific areas of the body, promote relaxation, or build strength and endurance."
+                    }
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Yamas and Niyamas",
+                        "description": "These are ethical guidelines or moral principles that form the foundation of yogic philosophy. They include concepts such as non-violence (ahimsa), truthfulness (satya), contentment (santosha), and self-discipline (tapas), among others."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Variety of Styles",
+                        "description": "Yoga encompasses a diverse range of styles and traditions, each with its own emphasis and approach. Some popular styles include Hatha, Vinyasa, Ashtanga, Bikram, Kundalini, and Iyengar, among others."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Holistic Wellness",
+                        "description": "Yoga is often viewed as more than just a physical practice; it is a holistic approach to health and well-being that integrates the body, mind, and spirit. Regular yoga practice is believed to promote overall wellness, reduce stress, and enhance vitality."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Community and Support",
+                        "description": " Many practitioners find a sense of community and support in yoga classes or through online forums and groups. The shared experience of practicing yoga together can foster connection and a sense of belonging."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Accessibility and Adaptability",
+                        "description": "Yoga can be adapted to suit individuals of all ages, fitness levels, and abilities. Modifications and props (such as blocks, straps, and bolsters) are commonly used to make poses accessible and safe for everyone."
+                    }
+                ]
+            },
+
+            {
+                "id": 201,
+                "title": "Cycling Session",
+                "description": "If you’re looking to add a little variety to your workouts, cycling is a great way to spice up your routine. At World Gym®, we are dedicated to providing our members with a variety of options to help them stay motivated. That is why we offer several different group fitness classes. Popular among members are our cycling classes. Cycling is a great cardiovascular exercise that will help you lose weight, improve strength, and increase endurance. Whether this is your entire workout or supplemental to yoga, weight training, or another form of exercise, one thing is for sure: you’ll work up a sweat. During a cycling class, you’ll engage your major lower-body muscles, including your glutes, calves, hamstrings, and quads.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/personal-trainer-and-student-in-gym-DBYX9AK-1-pf2edkxgmqxqmkbw9qcr513xak23euwm0wjdhic69k.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "09:00 AM - 11:00 AM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Physical Exercise",
+                        "description": "Cycling provides an excellent cardiovascular workout, strengthening the heart, lungs, and muscles. It's a low-impact exercise suitable for people of all ages and fitness levels."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Outdoor Experience",
+                        "description": "Cycling allows you to explore the outdoors, whether it's through scenic countryside roads, urban landscapes, or rugged mountain trails. It offers a sense of freedom and connection with nature."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Transportation",
+                        "description": "Cycling serves as an eco-friendly mode of transportation, reducing carbon emissions and traffic congestion. It's often faster than walking and can be a practical means of commuting in cities or getting around locally."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Social Interaction",
+                        "description":"Cycling can be a social activity, whether it's joining group rides, participating in cycling clubs, or simply riding with friends and family. It provides opportunities for bonding and camaraderie."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Mental Well-being",
+                        "description": "Cycling has been linked to improved mental health, reducing stress, anxiety, and depression. The rhythmic motion and focus required while cycling can promote mindfulness and relaxation."
+                    }
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Versatility",
+                        "description": "Cycling offers a variety of disciplines and styles to suit different preferences and goals, including road cycling, mountain biking, BMX, cyclocross, and track cycling. Each discipline has its own unique challenges and rewards."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Competitive Sport",
+                        "description": "Cycling is a highly competitive sport with events ranging from local races to prestigious international competitions like the Tour de France and the Olympics. It requires skill, strategy, and endurance."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Technological Advancements",
+                        "description": "The cycling industry continually evolves with advancements in technology, such as lightweight materials, aerodynamic designs, electronic shifting systems, and smart bike accessories like GPS trackers and fitness monitors." 
+                    },
+                    {
+                        "id": 3,
+                        "title": "Health Benefits",
+                        "description":"In addition to physical exercise, cycling promotes overall health by improving balance, coordination, and posture. It's also a weight-bearing activity, which can help strengthen bones and reduce the risk of osteoporosis."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Environmental Impact",
+                        "description": "Choosing cycling over motorized transportation contributes to environmental sustainability by reducing air and noise pollution, conserving energy, and preserving natural resources."}
+                ]
+            },
+
+            {
+                "id": 301,
+                "title": "Strength Session",
+                "description": "Looking to improve your overall health? Make sure strength training is a part of your health and fitness routine. Strength training offers many benefits and is often a fundamental component of exercise programs. World Gym® offers strength training classes that will work one or more muscle groups to help you build muscle, lose weight, and increase strength. Weight training is a type of exercise using either equipment or bodyweight to build muscle mass. Often referred to as resistance training or weight training, strength training is one of our most popular classes, as it offers benefits for just about everyone, regardless of their fitness goals.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/young-fit-woman-boxing-workout-in-gym-REE4XME-1-pf2kgq0vz8xbds0jmygiy8bn1hxqyhvrtjxmcvexmg.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "12:00 PM - 2:00 PM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Muscle Development",
+                        "description": "Strength training is primarily aimed at building and strengthening muscles. Through resistance exercises, such as lifting weights, using resistance bands, or bodyweight exercises like push-ups and squats, individuals can increase muscle mass and improve muscle tone."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Increased Metabolism",
+                        "description": "Building lean muscle mass through strength training can help boost metabolism. Muscle tissue requires more energy at rest compared to fat tissue, so the more muscle you have, the more calories you burn even when you're not exercising."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Bone Health",
+                        "description": "Strength training is beneficial for bone health. Resistance exercises stimulate bone growth and help prevent age-related bone loss, reducing the risk of osteoporosis and fractures."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Joint Health",
+                        "description":"Proper strength training can improve joint stability and flexibility. Strengthening the muscles around the joints helps support and protect them, reducing the risk of injuries and easing joint pain associated with conditions like arthritis."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Functional Fitness",
+                        "description": "Strength training improves functional fitness, which refers to the ability to perform everyday tasks with ease and efficiency. Strong muscles contribute to better posture, balance, and coordination, making activities like lifting heavy objects, climbing stairs, and bending easier."
+                    }
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Weight Management",
+                        "description": "Strength training, combined with a balanced diet, can aid in weight management and body composition. Building muscle mass helps increase calorie expenditure, making it easier to achieve and maintain a healthy weight."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Injury Prevention",
+                        "description": "Strengthening muscles and improving joint stability can help prevent injuries, both in everyday life and during physical activities. A well-rounded strength training program includes exercises that target different muscle groups and movement patterns, reducing the risk of muscle imbalances and overuse injuries."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Mental Health Benefits",
+                        "description": "Strength training has positive effects on mental well-being, reducing symptoms of anxiety and depression. Exercise releases endorphins, which are natural mood lifters, and the sense of accomplishment from progressing in strength training can boost self-esteem and confidence." 
+                    },
+                    {
+                        "id": 3,
+                        "title": "Adaptability",
+                        "description":"Strength training can be adapted to suit individual needs, preferences, and fitness goals. Whether you're a beginner or an experienced lifter, you can tailor your workouts by adjusting the intensity, volume, and variety of exercises to meet your specific requirements."
+                    },
+                    {
+                        "id": 4,
+                        "title": "Longevity",
+                        "description": "Regular strength training is associated with improved longevity and quality of life. Maintaining muscle strength and functional fitness as you age can help preserve independence and mobility, allowing you to enjoy an active lifestyle for longer."
+                    }
+                ]
+            },
+
+            {
+                "id": 401,
+                "title": "HIIT Session",
+                "description": "One of the most popular fitness trends of the past few years, HIIT will make you sweat more than you ever expected. HIIT stands for high-intensity interval training and consists of quick, intense bursts of exercise followed by short recovery periods. HIIT classes get your heart pumping and your blood flowing and will require you to work hard. World Gym® is so excited to offer this popular group workout class to our members, as it’s a great class for just about everyone. Whether you are a first-timer or an avid gym-goer, HIIT is right for people of all experience and fitness levels. If you’re not sure which classes or workouts are best for your needs, our trainers would love to discuss your goals so that we can point you in the right direction.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/handsome-man-work-out-in-gym-MBPU9HH-1-pf2kgq0vz8xbds0jmygiy8bn1hxqyhvrtjxmcvexmg.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "03:00 PM - 05:00 PM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Short Duration",
+                        "description": "HIIT workouts typically last anywhere from 10 to 30 minutes, making them ideal for individuals with busy schedules."
+                    },
+                    {
+                        "id": 1,
+                        "title": "High Intensity",
+                        "description": "During the intense intervals, participants push themselves to near maximum effort, aiming to elevate heart rate and exert maximal effort."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Interval Structure",
+                        "description": "HIIT alternates between high-intensity intervals and recovery periods. The ratio of work to rest can vary depending on the specific workout, but common ratios include 1:1, 2:1, or even 1:2."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Versatility",
+                        "description":"HIIT workouts can be adapted to various forms of exercise, including running, cycling, bodyweight exercises, and even swimming. This versatility allows for a wide range of options to suit individual preferences and fitness levels."
+                    }
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Efficiency",
+                        "description": "Because of its high intensity, HIIT workouts can burn a significant amount of calories in a relatively short amount of time. This makes it an efficient option for those looking to maximize their workout in a limited timeframe."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Metabolic Benefits",
+                        "description": "HIIT has been shown to increase metabolic rate and improve cardiovascular health. It can also lead to improvements in insulin sensitivity and fat loss, making it an effective tool for weight management."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Adaptability",
+                        "description": "HIIT can be tailored to different fitness levels, with participants adjusting the intensity and duration of intervals to suit their individual capabilities." 
+                    },
+                    {
+                        "id": 3,
+                        "title": "Variety",
+                        "description":"There are countless HIIT workouts available, ranging from beginner-friendly routines to advanced challenges. This variety helps keep workouts interesting and prevents boredom."
+                    }
+                 
+                ]
+            },
+
+            {
+                "id": 501,
+                "title": "Zumba Session",
+                "description": "Looking to get fit and have fun through rhythmic dance? Zumba is a fitness program that combines international music with high-energy dance moves. This group fitness class is great for those looking to work up a sweat and improve their cardiovascular fitness. World Gym® is proud to offer Zumba classes to our members as yet another choice in our vast selection of group fitness classes. Zumba classes are great for toning muscle, as they work several different muscle groups at once. These not only elevate your heart rate and provide aerobic benefits, but they also offer anaerobic benefits, which help you maintain a healthy respiratory system. Zumba is great for anyone looking to change up their workout with some exhilarating dance moves that will make you sweat.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/women-practising-yoga-at-gym-78JFYQ5-1-pf2kgqyq62ylpdz6hgv5iq33mvt466zi5ol3u5djg8.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "06:00 PM - 08:00 PM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Latin-Inspired Dance Moves",
+                        "description": " Zumba draws inspiration from various Latin dance styles such as salsa, merengue, cumbia, and reggaeton. Participants perform choreographed dance routines to upbeat music, incorporating hip sways, twists, and rhythmic footwork."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Full-Body Workout",
+                        "description": "Zumba provides a comprehensive workout that engages multiple muscle groups throughout the body. Dance movements target the core, legs, arms, and cardiovascular system, offering both strength training and aerobic conditioning benefits."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Cardiovascular Endurance",
+                        "description": "Zumba sessions typically involve continuous movement and elevated heart rate, promoting cardiovascular endurance and improving heart health."
+                    },
+                    {
+                        "id": 3,
+                        "title": "Calorie Burning",
+                        "description":"The high-energy nature of Zumba can lead to significant calorie burning. Depending on factors such as intensity and duration, participants can burn a substantial number of calories per session, making it an effective option for weight management and fat loss."
+                    }
+                   
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Accessible to All Fitness Levels",
+                        "description": "Zumba classes cater to individuals of varying fitness levels, from beginners to advanced participants. Instructors often provide modifications and options to accommodate different abilities, allowing everyone to participate and progress at their own pace."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Fun and Energetic Atmosphere",
+                        "description": "Zumba classes are known for their lively and energetic atmosphere. The combination of upbeat music, dynamic movements, and supportive group dynamics creates a fun and motivating environment that keeps participants engaged and coming back for more."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Stress Reduction",
+                        "description": "Like any form of exercise, Zumba can help reduce stress and improve mood by promoting the release of endorphins, the body's natural feel-good hormones. The combination of music, movement, and social interaction can be uplifting and energizing, providing a mental and emotional boost." 
+                    },
+                    {
+                        "id": 3,
+                        "title": "Community and Social Interaction",
+                        "description":"Zumba classes often foster a sense of community and camaraderie among participants. The group setting encourages social interaction, connection, and support, making it a social outlet as well as a workout."
+                    }
+                ]
+            },
+
+            {
+                "id": 601,
+                "title": "Les Mills Session",
+                "description": "If you’re looking to take your workout to the next level, a Les Mills class is a great place to start. World Gym® is excited to bring this science-backed fitness class to our members. Les Mills offers some of the best workouts available that are high-energy, challenging – and always fun. These high-intensity interval training workouts provide a full-body burn and will touch every muscle group. Looking to lose weight? Get toned? These classes will help you do all the above and then some. They fuse music, movement, and, most importantly, science, with the newest technology to deliver a truly unique workout experience. One of the most attractive aspects of these classes is that they are truly for everyone. Les Mills classes allow you to move at your own pace, which makes them great for beginners, long-time gym-goers, and just about everyone in between. You’ll never be in competition with anyone other than yourself and will continually be challenged to push yourself to new heights.",
+                "img": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/personal-trainer-with-woman-in-the-gym-P3ZJPHQ-1-pf2kgrwkcwzw0zxtbz9s37uk89ohdw38ht8lbfc5a0.jpg",
+                "shedule":[
+                    {
+                        "id": 0,
+                        "day": "Monday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+                    {
+                        "id": 1,
+                        "day": "Thuesday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+                    {
+                        "id": 2,
+                        "day": "Wednesday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+                    {
+                        "id": 3,
+                        "day": "Thursday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+
+                    {
+                        "id": 4,
+                        "day": "Friday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+                    {
+                        "id": 5,
+                        "day": "Saturday",
+                        "time": "10:00 PM - 12:00 PM"
+                    },
+                    {
+                        "id": 6,
+                        "day": "Sunday",
+                        "time": "Take Rest"
+                    }
+                ],
+                "features1":[
+                    {
+                        "id": 0,
+                        "title": "Structured Workouts",
+                        "description": "Les Mills programs follow structured workout formats that are carefully designed by fitness professionals and backed by scientific research. Each program typically consists of choreographed exercise routines set to music, with specific movements and sequences tailored to achieve particular fitness goals."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Variety of Programs",
+                        "description": " Les Mills offers a diverse portfolio of fitness programs, each focusing on different aspects of fitness such as cardio, strength, flexibility, and coordination. Some popular Les Mills programs include BodyPump (strength training with weights), BodyCombat (martial arts-inspired cardio), BodyFlow (yoga, Tai Chi, and Pilates fusion), and RPM (indoor cycling)."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Certified Instructors",
+                        "description": "Les Mills instructors undergo comprehensive training and certification to ensure they are knowledgeable and skilled in delivering safe and effective workouts. They receive ongoing education and support from Les Mills to stay up-to-date with the latest fitness trends and research."
+                    },
+                    {
+                        "id": 3,
+                        "title": "High-Quality Music",
+                        "description":"Music plays a crucial role in Les Mills workouts, with carefully curated playlists synced to the tempo and intensity of the exercises. The energetic and motivating music helps participants stay engaged and motivated throughout the workout."
+                    }
+                ],
+                "features2":[
+                    {
+                        "id": 0,
+                        "title": "Science-Based Approach",
+                        "description": "Les Mills programs are developed based on scientific principles of exercise physiology and biomechanics. Workouts are designed to optimize results while minimizing the risk of injury, with attention to proper form, progression, and variety."
+                    },
+                    {
+                        "id": 1,
+                        "title": "Community and Group Dynamics",
+                        "description": "Les Mills classes are typically conducted in group settings, fostering a sense of community, motivation, and accountability among participants. The supportive group environment can enhance enjoyment and adherence to the workouts."
+                    },
+                    {
+                        "id": 2,
+                        "title": "Progressive Training",
+                        "description": "Many Les Mills programs follow a progressive training model, where participants gradually increase the intensity and complexity of the workouts over time to continue challenging their bodies and achieving results." 
+                    },
+                    {
+                        "id": 3,
+                        "title": "Accessible to All Fitness Levels",
+                        "description":"While Les Mills programs can be intense, they are designed to be inclusive and adaptable to different fitness levels. Instructors often provide modifications and options to accommodate beginners and experienced participants alike."
+                    }
+                
+                ]
+            }
+
+        ],
+
+
+        "achivment":[
+            {
+                "id": 0,
+                "title":"Working Days",
+                "number": "586",
+                "icon_class":"fa-solid fa-calendar-days"
+            },
+            {
+                "id": 1,
+                "title":"Happy Clients",
+                "number": "2,036",
+                "icon_class":"fa-solid fa-users"
+            },
+            {
+                "id": 2,
+                "title":"Successful Stories",
+                "number": "874",
+                "icon_class":"fa-solid fa-medal"
+            },
+            {
+                "id": 3,
+                "title":"Perfect Bodies",
+                "number": "1,625",
+                "icon_class":"fa-regular fa-face-kiss-wink-heart"
+            }
+        ],
+
+
+        "review":[
+            {
+                "id": 0,
+                "name": "Shabnur Khanom",
+                "time": "8 Weeks / Athlete Training",
+                "image": "https://c4.wallpaperflare.com/wallpaper/430/965/318/beauty-workout-fitness-yoga-wallpaper-preview.jpg",
+                "comments": "Yoga training review often reflects a well-rounded program that combines expert instruction, comprehensive curriculum, effective teaching methodologies, supportive community, and alignment with personal goals. However, individual experiences and preferences may vary, so it's essential to consider multiple perspectives and factors when evaluating a yoga training program."
+            },
+            {
+                "id": 1,
+                "name": "Bubli Khan",
+                "time": "10 Weeks / Private Training",
+                "image": "https://www.shutterstock.com/shutterstock/videos/1097360667/thumb/1.jpg?ip=x480",
+                "comments": "Cycling training programs in gyms often reflect a combination of factors, including knowledgeable instructors, diverse class offerings, quality equipment, motivating environment, supportive community, and good value for money. However, individual experiences and preferences may vary, so it's important to consider personal goals and preferences when evaluating a cycling training program."
+            },
+            {
+                "id": 2,
+                "name": "Jon Sina",
+                "time": "12 Weeks / Group Training",
+                "image": "https://c4.wallpaperflare.com/wallpaper/199/924/33/muscle-muscle-bodybuilding-press-wallpaper-preview.jpg",
+                "comments": "Strength training programs in gyms often reflect a combination of factors, including qualified instruction, well-maintained equipment, clean and accessible facilities, safety measures, progress tracking tools, supportive community, and good value for money. However, individual experiences and preferences may vary, so it's important to consider personal goals and preferences when evaluating a strength training program."
+            },
+            {
+                "id": 3,
+                "name": "Baiden Vuiya",
+                "time": "10 Weeks / Group Training",
+                "image": "https://img.freepik.com/free-photo/young-healthy-man-athlete-doing-exercise-with-ropes-gym-single-male-model-practicing-hard-training-his-upper-body-concept-healthy-lifestyle-sport-fitness-bodybuilding-wellbeing_155003-27879.jpg",
+                "comments": "HIIT training programs in gyms often reflect a combination of factors, including qualified instruction, workout variety, intensity and challenge, effective programming, quality equipment and facilities, supportive community, progress tracking tools, and good value for money. However, individual experiences and preferences may vary, so it's important to consider personal goals and preferences when evaluating a HIIT training program."
+            },
+            {
+                "id": 4,
+                "name": "Hilari Klinton",
+                "time": "14 Weeks / Private Training",
+                "image": "https://www.india.com/wp-content/uploads/2017/06/Zumba.jpg",
+                "comments": "Zumba training programs in gyms often reflect a combination of factors, including qualified instruction, variety of classes, fun and energetic atmosphere, suitability for all fitness levels, cardiovascular benefits, community and social interaction, accessible schedule, and good value for money. However, individual experiences and preferences may vary, so it's important to consider personal goals and preferences when evaluating a Zumba training program."
+            },
+            {
+                "id": 5,
+                "name": "Shiba Shanu",
+                "time": "25 Weeks / Athlete Training",
+                "image": "https://i.ytimg.com/vi/Sd3eZ8kHfnc/maxresdefault.jpg",
+                "comments": "Les Mills training programs in gyms often reflect a combination of factors, including qualified instruction, variety of programs, effective workouts, community and atmosphere, innovative features, accessibility and inclusivity, facility amenities, and value for money. However, individual experiences and preferences may vary, so it's important to consider personal goals and preferences when evaluating Les Mills training programs."
+            }
+        ],
+
+        "awards":[
+            {
+                "id": 0,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-1-QVPYTK-1-pf2k9q40887vfg83ifgqzw6ogkh9kd776pqh70xhwo.png"
+            },
+            {
+                "id": 1,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-5-MAS8JZ-1-pf2k9q40887vfg83ifgqzw6ogkh9kd776pqh70xhwo.png"
+            },
+            {
+                "id": 2,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-1-MAS8JZ-1-pf2k9r1uf295r26qcxvdkdy51ycms2axiudyoaw3qg.png"
+            },
+            {
+                "id": 3,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-3-QVPYTK-1-pf2k9mcngw2q50dk4du8px4u30zspks9u74j9x32lk.png"
+            },
+
+            {
+                "id": 4,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-6-MAS8JZ-1-pf2k9nahnq40gmc6yw8vaewaoev5x9w06bs0r71ofc.png"
+            },
+            {
+                "id": 5,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-4-MAS8JZ-1-pf2k9o8buk5as8attenhuwnr9sqj4yzqigfi8h0a94.png"
+            },
+            {
+                "id": 6,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-3-MAS8JZ-1-pf2k9p661e6l3u9gnx24fef7v6lwco3gul2zpqyw2w.png"
+            },
+            {
+                "id": 7,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-1-QVPYTK-1-pf2k9q40887vfg83ifgqzw6ogkh9kd776pqh70xhwo.png"
+            },
+            {
+                "id": 8,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/logo-5-MAS8JZ-1-pf2k9q40887vfg83ifgqzw6ogkh9kd776pqh70xhwo.png"
+            }
+        ],
+
+        "features":[
+            {
+                "id": 0,
+                "icon_class": "fa-solid fa-dumbbell",
+                "title": "PRO EQUIPMENT",
+                "description": "The range and quality of equipment available here are unmatched. Whether you're into strength training, cardio, or functional fitness, they have everything you need to crush your workout."
+            },
+            {
+                "id": 1,
+                "icon_class": "fa-solid fa-user-ninja",
+                "title": "NINJA COACH",
+                "description": "The coaches here are absolute ninjas when it comes to fitness instruction. They're not only highly skilled and knowledgeable but also incredibly motivating and supportive."
+            },
+            {
+                "id": 2,
+                "icon_class": "fa-solid fa-heart-pulse",
+                "title": "CARDIO FIRST",
+                "description": "The cardio equipment selection is extensive, with state-of-the-art machines that cater to all fitness levels. Whether you prefer running, cycling, rowing, or stair climbing, they have it all."
+            },
+            {
+                "id": 3,
+                "icon_class": "fa-solid fa-stopwatch",
+                "title": "FLEXIBLE TIME",
+                "description": "The gym staff is always friendly and welcoming, even during those late-night sessions. Plus, the facility is well-equipped with everything I need for a great workout."
+            }
+        ],
+
+        "trainers":[
+            {
+                "id": 0,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/bearded-bodybuilder-dressed-in-a-tank-top-GLJJB9S-pf2edcgqtyriixe3g86ic97158jp3b5rodspzcrchs.png"
+            },
+            {
+                "id": 1,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/female-bodybuilder-training-at-the-gym-2021-09-03-17-51-56-utc-1-pf2kk8wxilwdpzm4v2sk4i94fnw7fd29zn4vyk9eyo.png"
+            },
+            {
+                "id": 2,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/portrait-of-attractive-naked-bodybuilder-2021-08-27-23-44-22-utc_adobespark-1-pf2kglbixsw8kkxa7hwsffgl9pwthqjutjswrtoj5s.png"
+            },
+            {
+                "id": 3,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/young-woman-posing-and-showing-muscles-in-gym-PLJMEGF-pf2df620btz6dd1c0ybv6donjv087ih4n7u4s5foqo.png"
+            },
+            {
+                "id": 4,
+                "image": "https://a.catand.us/fitfactory/wp-content/uploads/sites/17/elementor/thumbs/muscular-bodybuilder-guy-doing-exercises-with-dumb-P4AR4V5-1-pf2kkfhsug5dz9cksnmy3ylclczrx8secjpabhznr4.png"
+            }
+        ],
+
+        "pricing":[
+            {
+                "id": 0,
+                "monthly":[
+                    {
+                        "id": 0,
+                        "title": "GROUP TRAINING",
+                        "price": "59",
+                        "category": "month",
+                        "training": "Group Gym"
+                    },
+                    {
+                        "id": 1,
+                        "title": "PRIVATE TRAINING",
+                        "price": "119",
+                        "category": "month",
+                        "training": "Private Gym"
+                    },
+                    {
+                        "id": 2,
+                        "title": "ATHLETE TRAINING",
+                        "price": "159",
+                        "category": "month",
+                        "training": "Athlete Gym"
+                    }
+                ],
+
+                "yearly":[
+                    {
+                        "id": 0,
+                        "title": "GROUP TRAINING",
+                        "price": "499",
+                        "category": "year",
+                        "training": "Group Gym"
+                    },
+                    {
+                        "id": 1,
+                        "title": "PRIVATE TRAINING",
+                        "price": "1129",
+                        "category": "year",
+                        "training": "Private Gym"
+                    },
+                    {
+                        "id": 2,
+                        "title": "ATHLETE TRAINING",
+                        "price": "1599",
+                        "category": "year",
+                        "training": "Athlete Gym"
+                    }
+                ]
+
+            }
+        ]
+    }
+]
