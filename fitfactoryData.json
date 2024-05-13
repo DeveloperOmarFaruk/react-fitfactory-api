@@ -580,7 +580,7 @@
             {
                 "id": 1,
                 "title":"Happy Clients",
-                "number": "2,036",
+                "number": "2036",
                 "icon_class":"fa-solid fa-users"
             },
             {
@@ -592,7 +592,7 @@
             {
                 "id": 3,
                 "title":"Perfect Bodies",
-                "number": "1,625",
+                "number": "1625",
                 "icon_class":"fa-regular fa-face-kiss-wink-heart"
             }
         ],
