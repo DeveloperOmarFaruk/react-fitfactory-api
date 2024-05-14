@@ -1,6 +1,6 @@
 [
     {
-        "classes":[
+     "classes":[
             {
                 "id": 101,
                 "title": "Yoga & Stretching Session",
@@ -44,60 +44,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Asanas (Poses)",
-                        "description": "Yoga includes various physical postures or asanas designed to promote strength, flexibility, and balance. These poses can range from gentle stretches to more challenging positions, catering to practitioners of all levels."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Pranayama (Breath Control)",
-                        "description": "Pranayama techniques involve controlling the breath to enhance vitality and mental clarity. Breathing exercises are often integrated into yoga sessions to deepen relaxation and focus."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Meditation and Mindfulness",
-                        "description": "Yoga encourages the cultivation of mindfulness and inner awareness through meditation practices. This can involve techniques such as breath awareness, guided visualization, or mantra repetition to quiet the mind and promote a sense of calm."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Alignment and Awareness",
-                        "description": "Proper alignment is emphasized in yoga to prevent injury and ensure maximum benefit from each pose. Practitioners are encouraged to cultivate body awareness, noticing sensations and alignment cues to refine their practice over time."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Sequencing and Flow",
-                        "description": "Yoga classes are often structured in sequences or flows that guide practitioners through a series of poses in a coordinated manner. These sequences may be designed to target specific areas of the body, promote relaxation, or build strength and endurance."
-                    }
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Yamas and Niyamas",
-                        "description": "These are ethical guidelines or moral principles that form the foundation of yogic philosophy. They include concepts such as non-violence (ahimsa), truthfulness (satya), contentment (santosha), and self-discipline (tapas), among others."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Variety of Styles",
-                        "description": "Yoga encompasses a diverse range of styles and traditions, each with its own emphasis and approach. Some popular styles include Hatha, Vinyasa, Ashtanga, Bikram, Kundalini, and Iyengar, among others."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Holistic Wellness",
-                        "description": "Yoga is often viewed as more than just a physical practice; it is a holistic approach to health and well-being that integrates the body, mind, and spirit. Regular yoga practice is believed to promote overall wellness, reduce stress, and enhance vitality."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Community and Support",
-                        "description": " Many practitioners find a sense of community and support in yoga classes or through online forums and groups. The shared experience of practicing yoga together can foster connection and a sense of belonging."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Accessibility and Adaptability",
-                        "description": "Yoga can be adapted to suit individuals of all ages, fitness levels, and abilities. Modifications and props (such as blocks, straps, and bolsters) are commonly used to make poses accessible and safe for everyone."
-                    }
-                ]
+                "video_path": "https://www.youtube.com/embed/oxLP1SlkTJA?si=wlpWnwzRH9Jh2wbr",
+                "overview1":"The main part of the session involves a series of yoga poses, or asanas, designed to improve flexibility, strength, balance, and posture. These poses can vary widely in intensity and complexity, catering to participants of all levels. The session often begins with a few minutes of deep breathing and centering exercises to quiet the mind and connect with the breath. This helps participants cultivate mindfulness and presence as they transition into the practice.",
+                "overview2": "A yoga and stretching gym session offers a holistic approach to health and well-being, addressing both physical and mental aspects of fitness. It provides an opportunity to improve flexibility, mobility, strength, and relaxation, while also fostering a sense of inner peace and balance."
             },
 
             {
@@ -143,59 +92,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Physical Exercise",
-                        "description": "Cycling provides an excellent cardiovascular workout, strengthening the heart, lungs, and muscles. It's a low-impact exercise suitable for people of all ages and fitness levels."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Outdoor Experience",
-                        "description": "Cycling allows you to explore the outdoors, whether it's through scenic countryside roads, urban landscapes, or rugged mountain trails. It offers a sense of freedom and connection with nature."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Transportation",
-                        "description": "Cycling serves as an eco-friendly mode of transportation, reducing carbon emissions and traffic congestion. It's often faster than walking and can be a practical means of commuting in cities or getting around locally."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Social Interaction",
-                        "description":"Cycling can be a social activity, whether it's joining group rides, participating in cycling clubs, or simply riding with friends and family. It provides opportunities for bonding and camaraderie."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Mental Well-being",
-                        "description": "Cycling has been linked to improved mental health, reducing stress, anxiety, and depression. The rhythmic motion and focus required while cycling can promote mindfulness and relaxation."
-                    }
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Versatility",
-                        "description": "Cycling offers a variety of disciplines and styles to suit different preferences and goals, including road cycling, mountain biking, BMX, cyclocross, and track cycling. Each discipline has its own unique challenges and rewards."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Competitive Sport",
-                        "description": "Cycling is a highly competitive sport with events ranging from local races to prestigious international competitions like the Tour de France and the Olympics. It requires skill, strategy, and endurance."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Technological Advancements",
-                        "description": "The cycling industry continually evolves with advancements in technology, such as lightweight materials, aerodynamic designs, electronic shifting systems, and smart bike accessories like GPS trackers and fitness monitors." 
-                    },
-                    {
-                        "id": 3,
-                        "title": "Health Benefits",
-                        "description":"In addition to physical exercise, cycling promotes overall health by improving balance, coordination, and posture. It's also a weight-bearing activity, which can help strengthen bones and reduce the risk of osteoporosis."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Environmental Impact",
-                        "description": "Choosing cycling over motorized transportation contributes to environmental sustainability by reducing air and noise pollution, conserving energy, and preserving natural resources."}
-                ]
+                "video_path": "https://www.youtube.com/embed/y5K5oWYNdfE?si=zK_7Kz7WkAGYIXKw",
+                "overview1":" The session typically begins with a warm-up period to gradually increase heart rate and blood flow to the muscles. The warm-up may involve light pedaling at a moderate intensity, focusing on smooth and controlled movements to prepare the body for the more intense workout ahead.",
+                "overview2": "Cycling gym sessions offer a challenging and effective way to improve cardiovascular health, burn calories, and build lower body strength and endurance. They are suitable for people of all fitness levels, as participants can adjust the resistance level and intensity of their ride to suit their individual needs and goals."
             },
 
             {
@@ -241,60 +140,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Muscle Development",
-                        "description": "Strength training is primarily aimed at building and strengthening muscles. Through resistance exercises, such as lifting weights, using resistance bands, or bodyweight exercises like push-ups and squats, individuals can increase muscle mass and improve muscle tone."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Increased Metabolism",
-                        "description": "Building lean muscle mass through strength training can help boost metabolism. Muscle tissue requires more energy at rest compared to fat tissue, so the more muscle you have, the more calories you burn even when you're not exercising."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Bone Health",
-                        "description": "Strength training is beneficial for bone health. Resistance exercises stimulate bone growth and help prevent age-related bone loss, reducing the risk of osteoporosis and fractures."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Joint Health",
-                        "description":"Proper strength training can improve joint stability and flexibility. Strengthening the muscles around the joints helps support and protect them, reducing the risk of injuries and easing joint pain associated with conditions like arthritis."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Functional Fitness",
-                        "description": "Strength training improves functional fitness, which refers to the ability to perform everyday tasks with ease and efficiency. Strong muscles contribute to better posture, balance, and coordination, making activities like lifting heavy objects, climbing stairs, and bending easier."
-                    }
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Weight Management",
-                        "description": "Strength training, combined with a balanced diet, can aid in weight management and body composition. Building muscle mass helps increase calorie expenditure, making it easier to achieve and maintain a healthy weight."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Injury Prevention",
-                        "description": "Strengthening muscles and improving joint stability can help prevent injuries, both in everyday life and during physical activities. A well-rounded strength training program includes exercises that target different muscle groups and movement patterns, reducing the risk of muscle imbalances and overuse injuries."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Mental Health Benefits",
-                        "description": "Strength training has positive effects on mental well-being, reducing symptoms of anxiety and depression. Exercise releases endorphins, which are natural mood lifters, and the sense of accomplishment from progressing in strength training can boost self-esteem and confidence." 
-                    },
-                    {
-                        "id": 3,
-                        "title": "Adaptability",
-                        "description":"Strength training can be adapted to suit individual needs, preferences, and fitness goals. Whether you're a beginner or an experienced lifter, you can tailor your workouts by adjusting the intensity, volume, and variety of exercises to meet your specific requirements."
-                    },
-                    {
-                        "id": 4,
-                        "title": "Longevity",
-                        "description": "Regular strength training is associated with improved longevity and quality of life. Maintaining muscle strength and functional fitness as you age can help preserve independence and mobility, allowing you to enjoy an active lifestyle for longer."
-                    }
-                ]
+                "video_path": "https://www.youtube.com/embed/Im5wJLdudDg?si=gnyB8akY6JLkrXpo",
+                "overview1":" Exercises are typically organized into sets and repetitions (reps). A set refers to a group of consecutive repetitions of an exercise. The number of sets and reps can vary based on individual goals, fitness level, and the specific program. For strength training, lower rep ranges (e.g., 4-6 reps) with heavier weights are commonly used to focus on building strength and muscle mass.",
+                "overview2": "Strength gym sessions provide a structured and effective approach to building muscle strength and improving overall fitness. By following a well-designed program and progressively challenging the muscles, participants can achieve their strength and physique goals over time."
             },
 
             {
@@ -340,51 +188,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Short Duration",
-                        "description": "HIIT workouts typically last anywhere from 10 to 30 minutes, making them ideal for individuals with busy schedules."
-                    },
-                    {
-                        "id": 1,
-                        "title": "High Intensity",
-                        "description": "During the intense intervals, participants push themselves to near maximum effort, aiming to elevate heart rate and exert maximal effort."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Interval Structure",
-                        "description": "HIIT alternates between high-intensity intervals and recovery periods. The ratio of work to rest can vary depending on the specific workout, but common ratios include 1:1, 2:1, or even 1:2."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Versatility",
-                        "description":"HIIT workouts can be adapted to various forms of exercise, including running, cycling, bodyweight exercises, and even swimming. This versatility allows for a wide range of options to suit individual preferences and fitness levels."
-                    }
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Efficiency",
-                        "description": "Because of its high intensity, HIIT workouts can burn a significant amount of calories in a relatively short amount of time. This makes it an efficient option for those looking to maximize their workout in a limited timeframe."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Metabolic Benefits",
-                        "description": "HIIT has been shown to increase metabolic rate and improve cardiovascular health. It can also lead to improvements in insulin sensitivity and fat loss, making it an effective tool for weight management."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Adaptability",
-                        "description": "HIIT can be tailored to different fitness levels, with participants adjusting the intensity and duration of intervals to suit their individual capabilities." 
-                    },
-                    {
-                        "id": 3,
-                        "title": "Variety",
-                        "description":"There are countless HIIT workouts available, ranging from beginner-friendly routines to advanced challenges. This variety helps keep workouts interesting and prevents boredom."
-                    }
-                 
-                ]
+                "video_path": "https://www.youtube.com/embed/n_cIBBDb9JA?si=RuQl8nLTn0cNVRW4",
+                "overview1":"HIIT workouts are designed to be challenging and push participants to their limits. The high-intensity intervals are followed by short recovery periods or active rest, allowing the body to partially recover before the next round. This format helps elevate heart rate, boost metabolism, and burn calories both during and after the workout (known as the afterburn effect or excess post-exercise oxygen consumption).",
+                "overview2": "HIIT gym sessions offer a time-efficient and effective way to improve cardiovascular fitness, burn fat, and build strength and endurance. The intense nature of the workout can provide significant health benefits in a relatively short amount of time, making it a popular choice for busy individuals looking to maximize their workout results."
             },
 
             {
@@ -430,51 +236,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Latin-Inspired Dance Moves",
-                        "description": " Zumba draws inspiration from various Latin dance styles such as salsa, merengue, cumbia, and reggaeton. Participants perform choreographed dance routines to upbeat music, incorporating hip sways, twists, and rhythmic footwork."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Full-Body Workout",
-                        "description": "Zumba provides a comprehensive workout that engages multiple muscle groups throughout the body. Dance movements target the core, legs, arms, and cardiovascular system, offering both strength training and aerobic conditioning benefits."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Cardiovascular Endurance",
-                        "description": "Zumba sessions typically involve continuous movement and elevated heart rate, promoting cardiovascular endurance and improving heart health."
-                    },
-                    {
-                        "id": 3,
-                        "title": "Calorie Burning",
-                        "description":"The high-energy nature of Zumba can lead to significant calorie burning. Depending on factors such as intensity and duration, participants can burn a substantial number of calories per session, making it an effective option for weight management and fat loss."
-                    }
-                   
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Accessible to All Fitness Levels",
-                        "description": "Zumba classes cater to individuals of varying fitness levels, from beginners to advanced participants. Instructors often provide modifications and options to accommodate different abilities, allowing everyone to participate and progress at their own pace."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Fun and Energetic Atmosphere",
-                        "description": "Zumba classes are known for their lively and energetic atmosphere. The combination of upbeat music, dynamic movements, and supportive group dynamics creates a fun and motivating environment that keeps participants engaged and coming back for more."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Stress Reduction",
-                        "description": "Like any form of exercise, Zumba can help reduce stress and improve mood by promoting the release of endorphins, the body's natural feel-good hormones. The combination of music, movement, and social interaction can be uplifting and energizing, providing a mental and emotional boost." 
-                    },
-                    {
-                        "id": 3,
-                        "title": "Community and Social Interaction",
-                        "description":"Zumba classes often foster a sense of community and camaraderie among participants. The group setting encourages social interaction, connection, and support, making it a social outlet as well as a workout."
-                    }
-                ]
+                "video_path": "https://www.youtube.com/embed/HRkNfdlm5Qs?si=A0rQdOKu1QXqAlC2",
+                "overview1":"The main part of the session involves dancing to a series of choreographed routines set to upbeat music. These routines incorporate a variety of dance styles, including salsa, merengue, cumbia, reggaeton, hip-hop, and more. The instructor leads the class through a sequence of easy-to-follow dance steps, allowing participants to let loose and have fun while getting a full-body workout.",
+                "overview2": "Overall, a Zumba gym session offers a fun and effective way to get in shape, combining the benefits of cardio exercise, muscle toning, and stress relief through dance and music. It's suitable for people of all ages and fitness levels, as participants can adjust the intensity of their movements to suit their needs."
             },
 
             {
@@ -520,51 +284,9 @@
                         "time": "Take Rest"
                     }
                 ],
-                "features1":[
-                    {
-                        "id": 0,
-                        "title": "Structured Workouts",
-                        "description": "Les Mills programs follow structured workout formats that are carefully designed by fitness professionals and backed by scientific research. Each program typically consists of choreographed exercise routines set to music, with specific movements and sequences tailored to achieve particular fitness goals."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Variety of Programs",
-                        "description": " Les Mills offers a diverse portfolio of fitness programs, each focusing on different aspects of fitness such as cardio, strength, flexibility, and coordination. Some popular Les Mills programs include BodyPump (strength training with weights), BodyCombat (martial arts-inspired cardio), BodyFlow (yoga, Tai Chi, and Pilates fusion), and RPM (indoor cycling)."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Certified Instructors",
-                        "description": "Les Mills instructors undergo comprehensive training and certification to ensure they are knowledgeable and skilled in delivering safe and effective workouts. They receive ongoing education and support from Les Mills to stay up-to-date with the latest fitness trends and research."
-                    },
-                    {
-                        "id": 3,
-                        "title": "High-Quality Music",
-                        "description":"Music plays a crucial role in Les Mills workouts, with carefully curated playlists synced to the tempo and intensity of the exercises. The energetic and motivating music helps participants stay engaged and motivated throughout the workout."
-                    }
-                ],
-                "features2":[
-                    {
-                        "id": 0,
-                        "title": "Science-Based Approach",
-                        "description": "Les Mills programs are developed based on scientific principles of exercise physiology and biomechanics. Workouts are designed to optimize results while minimizing the risk of injury, with attention to proper form, progression, and variety."
-                    },
-                    {
-                        "id": 1,
-                        "title": "Community and Group Dynamics",
-                        "description": "Les Mills classes are typically conducted in group settings, fostering a sense of community, motivation, and accountability among participants. The supportive group environment can enhance enjoyment and adherence to the workouts."
-                    },
-                    {
-                        "id": 2,
-                        "title": "Progressive Training",
-                        "description": "Many Les Mills programs follow a progressive training model, where participants gradually increase the intensity and complexity of the workouts over time to continue challenging their bodies and achieving results." 
-                    },
-                    {
-                        "id": 3,
-                        "title": "Accessible to All Fitness Levels",
-                        "description":"While Les Mills programs can be intense, they are designed to be inclusive and adaptable to different fitness levels. Instructors often provide modifications and options to accommodate beginners and experienced participants alike."
-                    }
-                
-                ]
+                "video_path": "https://www.youtube.com/embed/vVsFpWT26d4?si=hB3z6X6N0J5R_lir",
+                "overview1":"Les Mills offers a wide range of gym sessions designed to provide effective, fun, and results-driven workouts. These sessions are based on scientifically-backed exercise principles and are led by certified instructors. A full-body barbell workout that targets all major muscle groups through high-repetition, low-weight exercises. It's designed to sculpt, tone, and strengthen muscles while improving endurance. Inspired by martial arts disciplines, BodyCombat is a high-energy cardio workout that combines punches, kicks, and strikes in a non-contact format. It helps improve coordination, agility, and cardiovascular fitness.",
+                "overview2": "These Les Mills gym sessions cater to different fitness levels and preferences, providing a dynamic and motivating environment for participants to achieve their fitness goals."
             }
 
         ],
